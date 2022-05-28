@@ -1,2 +1,3 @@
 Hello World!
-My name is Bunmi Oladipupo and I am on the full stack track
+My name is Bunmi Oladipupo and I am on the full stack track.
+Thanks for having me
